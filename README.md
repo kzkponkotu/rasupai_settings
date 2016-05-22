@@ -21,4 +21,8 @@ http://qiita.com/kaishero/items/5e48f952c36dcaef27fb
 
 http://signal-flag-z.blogspot.jp/2015/08/windows10wake-on-lanwol.html
 
+cmdを使って休止状態にする
+
+http://www.atmarkit.co.jp/ait/articles/0601/14/news013.html
+
 ここら辺を見て設定した
