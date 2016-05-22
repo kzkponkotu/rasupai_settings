@@ -25,4 +25,8 @@ cmdを使って休止状態にする
 
 http://www.atmarkit.co.jp/ait/articles/0601/14/news013.html
 
+RDP複数セッション
+
+http://www.mysysadmintips.com/windows/clients/545-multiple-rdp-remote-desktop-sessions-in-windows-10
+
 ここら辺を見て設定した
