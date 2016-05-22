@@ -29,4 +29,12 @@ RDP複数セッション
 
 http://www.mysysadmintips.com/windows/clients/545-multiple-rdp-remote-desktop-sessions-in-windows-10
 
+takeown /f ファイル名 /A
+
+icacls ファイル名 /grant Everyone:(F)
+
+リソースモニターからプロセスを終了して置き換え
+
+unlock.batを見ると分かる
+
 ここら辺を見て設定した
