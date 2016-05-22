@@ -41,8 +41,8 @@ vbsでcmdバックグラウンド実行
 
 http://amaotolog.com/pc-benri/33
 
-Set ws = CreateObject(“Wscript.Shell”) 
+Set ws = CreateObject("Wscript.Shell")
 
-ws.run “cmd /c ライブラリのバックアップ.bat“, vbhide
+ws.run "cmd /c run.bat", vbhide
 
 ここら辺を見て設定した
