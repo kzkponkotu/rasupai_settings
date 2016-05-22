@@ -17,4 +17,8 @@ Wake On Lan
 
 http://qiita.com/kaishero/items/5e48f952c36dcaef27fb
 
+高速スタートアップ無効
+
+http://signal-flag-z.blogspot.jp/2015/08/windows10wake-on-lanwol.html
+
 ここら辺を見て設定した
