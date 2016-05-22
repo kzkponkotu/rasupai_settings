@@ -37,4 +37,12 @@ icacls ファイル名 /grant Everyone:(F)
 
 unlock.batを見ると分かる
 
+vbsでcmdバックグラウンド実行
+
+http://amaotolog.com/pc-benri/33
+
+Set ws = CreateObject(“Wscript.Shell”) 
+
+ws.run “cmd /c ライブラリのバックアップ.bat“, vbhide
+
 ここら辺を見て設定した
